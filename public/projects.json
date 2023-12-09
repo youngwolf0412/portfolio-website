@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 1, "name" : "Food-ordering-App", "description" : "I have created this website with full functionality. A user can signup, login, login via email. Once user is logged in, he/she can browse menus and add food to their cart. Once added, they can proceed with ordering the food. Also, if user is not logged in, they cannot add food items to the cart. I have used mongoDB to store food items data. Used fetch to get data from database. All CRUD operations are used in this project. Used Context hook to access data from higer level component.", "image": "/src/assets/project-1.png"
+    },
+    {
+        "id" : 2, "name" : "MBA Chaiwala Clone", "description" : "A very stunning website and learnt how Tailwind CSS makes it easy to work with CSS. Created this exact clone of MBA chaiwal website. I used HTML, Tailwind CSS, ReactJS to display all functionality that this app holds.", "image": "/src/assets/project-2.png"
+    },
+    {
+        "id" : 3, "name" : "Movies App", "description" : "I created this Netflix clone using HTML,Tailwind CSS, ReactJS and used fetch API to get data from JSON file. Displayed all movies, TV Shows in different pages. When user clicks on one movie a new page with Movie details appear. Used card to display all movie details and show details. ", "image": "/src/assets/project-3.png"
+    }
+]
+
